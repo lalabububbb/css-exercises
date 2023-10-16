@@ -1,3 +1,8 @@
 .odd-element{
   background-color: #f2bdb8;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.big-font{
+  font-size: 24px;
 }
